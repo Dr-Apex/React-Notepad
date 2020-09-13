@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses JSON server as a local server for storing data.
 
 ## Available Scripts
 
